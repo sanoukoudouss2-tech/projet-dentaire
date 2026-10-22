@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+out/
+*.ser
+fiche-test.pdf
+.DS_Store
